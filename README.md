@@ -50,7 +50,7 @@ The neural network was designed for binary classification with a simple yet powe
 - Mean Symmetry  
 
 **Output:**  
-** **Malignant (1) Benign (0)**
+ **Malignant (1) Benign (0)**
 
 ---
 
@@ -76,6 +76,7 @@ The neural network was designed for binary classification with a simple yet powe
 - `Breast_Cancer_With_NN.ipynb` – Jupyter Notebook containing the entire workflow  
 - `breast_cancer_data.csv` – Dataset used for model training and testing  
 - `nn_breast_cancer_model.h5` – Saved trained Neural Network model (if exported)  
+
 
 
 
