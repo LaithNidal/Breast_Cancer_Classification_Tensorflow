@@ -4,9 +4,6 @@
 
 This project uses a **Neural Network (NN)** to predict whether a breast tumor is *benign* or *malignant* based on clinical and diagnostic features from the **Breast Cancer dataset**.  
 The notebook demonstrates data preprocessing, model training, evaluation, and performance visualization using **TensorFlow/Keras**.
-
-The goal is to apply deep learning techniques to healthcare data and evaluate the performance of neural networks compared to traditional ML models.
-
 ---
 
 ## 📊 Workflow
@@ -43,7 +40,7 @@ The neural network was designed for binary classification with a simple yet powe
 
 **Optimizer:** Adam  
 **Loss Function:** Binary Crossentropy  
-**Evaluation Metrics:** Accuracy, Precision, Recall, F1-Score 
+**Evaluation Metrics:** Accuracy
 
 **Input:**  
 - Mean Radius  
@@ -79,4 +76,5 @@ The neural network was designed for binary classification with a simple yet powe
 - `Breast_Cancer_With_NN.ipynb` – Jupyter Notebook containing the entire workflow  
 - `breast_cancer_data.csv` – Dataset used for model training and testing  
 - `nn_breast_cancer_model.h5` – Saved trained Neural Network model (if exported)  
+
 
